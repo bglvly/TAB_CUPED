@@ -1,0 +1,2 @@
+# TAB_CUPED
+TAB_CUPED algorithm boosts the power of testing treatment effects through selecting Treatment-Arm-Balanced (TAB) features from Controlled online experiment Using Pre-Experiment Data (CUPED)
